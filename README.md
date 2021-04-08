@@ -3,14 +3,14 @@
 <!--
 **TedLivist/TedLivist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p align="center"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=TedLivist&theme=onedark)](https://github.com/TedLivist/github-profile-trophy")></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TedLivist&theme=onedark)](https://github.com/TedLivist/github-profile-trophy")
 
 <br>
 
-<p align="center"> - 🔭 I’m currently working on becoming an efficient Developer </p>
-<p align="center"> - 🌱 I’m currently learning Ruby/Rail Javascript React </p>
-<p align="center"> - 💬 Ask me about Football and Technology </p>
-<p align="center"> - 📫 Reach me through: <a href="mailto:livistteddy@gmail.com">Email</a> </p>
+- 🔭 I’m currently working on becoming an efficient Developer
+- 🌱 I’m currently learning Ruby/Rail Javascript React
+- 💬 Ask me about Football and Technology
+- 📫 Reach me through: <a href="mailto:livistteddy@gmail.com">Email</a>
 
 <br>
 
