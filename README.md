@@ -3,14 +3,14 @@
 <!--
 **TedLivist/TedLivist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TedLivist&theme=onedark)](https://github.com/TedLivist/github-profile-trophy)
+<p align="center"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=TedLivist&theme=onedark)](https://github.com/TedLivist/github-profile-trophy")></p>
 
 <br>
 
-- 🔭 I’m currently working on becoming an efficient Developer
-- 🌱 I’m currently learning Ruby/Rail Javascript React
-- 💬 Ask me about Football and Technology 
-- 📫 Reach me through: [Email](mailto:livistteddy@gmail.com)
+<p align="center"> - 🔭 I’m currently working on becoming an efficient Developer </p>
+<p align="center"> - 🌱 I’m currently learning Ruby/Rail Javascript React </p>
+<p align="center"> - 💬 Ask me about Football and Technology </p>
+<p align="center"> - 📫 Reach me through: <a href="mailto:livistteddy@gmail.com">Email</a> </p>
 
 <br>
 
@@ -33,3 +33,8 @@
 
 <br>
 
+<h3 align="center">GitHub Statistics:</h3>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TedLivist&show_icons=true&locale=en" alt="tedlivist" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TedLivist&theme=radical" alt="tedlivist" /></p>
