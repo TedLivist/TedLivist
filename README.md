@@ -35,3 +35,7 @@
 <br>
 
 <h3 align="center">GitHub Statistics:</h3>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=TedLivist&show_icons=true&locale=en" alt="tedlivist" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TedLivist&theme=radical" alt="tedlivist" /></p>
